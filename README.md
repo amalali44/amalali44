@@ -3,7 +3,7 @@
 <!--
 **amalali44/amalali44** is a ✨ _special_ ✨ repository because its `Readme.md` (this file) appears on your GitHub profile.
 -->
-![AMP-Code-Fi-Girl-Coding-Lofi-Girl](https://github.com/user-attachments/assets/6b68db01-8f82-48c9-ac1d-45801aa33d53)
+![beautiful-office-space-cartoon-style](https://github.com/user-attachments/assets/eab58a15-3d03-4bbc-ac4e-f92296a52934)
 
 - ⚡I'm a Computer Science Student at Macewan University, minoring in Finance<br/>
 - ✨ I'm a passionate learner, always looking to work across technologies and domains as well as pick up new skills! <br/>
