@@ -7,8 +7,8 @@
 
 - ⚡I'm a Computer Science Student at Macewan University, minoring in Finance<br/>
 - ✨ I'm a passionate learner, always looking to work across technologies and pick up new skills! <br/>
-- 🔭 I’m working on a few side projects right now, including a student-tutor matching platform <br/>
-- 🌱 I’m currently learning JavaScript and related frameworks <br/>
+- 🔭 I’m working on my portfolio right now! <br/>
+- 🌱 I’m currently learning JavaScript and some related frameworks <br/>
 
 <!--
 # 💻 Tech Stack:
